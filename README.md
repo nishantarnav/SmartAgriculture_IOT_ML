@@ -11,3 +11,7 @@ and analyse the condition of soil and plants for our fellow farmers. We have als
 integration to our project which sends mail to farmers if the moisture falls below a certain
 threshold and help them to make accurate decisions and make their crops and plants healthier
 with changing climate and soil situations.
+
+Arduino codes in the folder can be uploaded in an arduino for both automation and data collection along 
+with the sensor connected to it. The ipynb code file contains the data analysis and the machine learning part 
+of the project which can work on jupyter notebook or collab using the data.xlsx collected through the sensors.
