@@ -13,5 +13,5 @@ threshold and help them to make accurate decisions and make their crops and plan
 with changing climate and soil situations.
 
 Arduino codes in the folder can be uploaded in an arduino UNO for both automation and data collection along 
-with the sensor connected to it. The ipynb code file contains the data analysis and the machine learning part 
+with the sensors connected to it. The ipynb code file contains the data analysis and the machine learning part 
 of the project which can work on jupyter notebook or collab using the data.xlsx collected through the sensors.
